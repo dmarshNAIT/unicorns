@@ -1,3 +1,10 @@
+/*
+This was a side-of-my-desk project and is very unfinished, and is not up to class coding standards.
+Be inspired at your own risk.
+It has not been tested and almost definitely contains a ton of bugs.
+*/
+
+
 using System;
 using System.Collections.Generic;
 
