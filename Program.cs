@@ -1,7 +1,8 @@
 /*
 This was a side-of-my-desk project and is very unfinished, and is not up to class coding standards.
 Be inspired at your own risk.
-It has not been tested and almost definitely contains a ton of bugs... however what is here does run if you want to take it for a spin... it just doesn't do much.
+It has not been tested and almost definitely contains a ton of bugs... 
+what is here does run if you want to take it for a spin... it just doesn't do much.
 */
 
 
