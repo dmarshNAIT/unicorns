@@ -186,7 +186,7 @@ namespace Unicorns
         private List<Card> Stable = new List<Card>();
         private List<Card> Hand = new List<Card>();
         private PlayerType Type = PlayerType.Computer;
-        private string Name { get; } = MethodLibrary.RandomNameGenerator(); // is this how get works??
+        private string Name { get; } = MethodLibrary.RandomNameGenerator(); 
 
         public enum PlayerType
         {
