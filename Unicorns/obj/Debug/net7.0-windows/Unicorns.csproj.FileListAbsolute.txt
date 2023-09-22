@@ -1,0 +1,14 @@
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\net7.0-windows\Unicorns.exe
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\net7.0-windows\Unicorns.deps.json
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\net7.0-windows\Unicorns.runtimeconfig.json
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\net7.0-windows\Unicorns.dll
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\net7.0-windows\Unicorns.pdb
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\Unicorns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\Unicorns.AssemblyInfoInputs.cache
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\Unicorns.AssemblyInfo.cs
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\Unicorns.csproj.CoreCompileInputs.cache
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\Unicorns.dll
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\refint\Unicorns.dll
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\Unicorns.pdb
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\Unicorns.genruntimeconfig.cache
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\net7.0-windows\ref\Unicorns.dll

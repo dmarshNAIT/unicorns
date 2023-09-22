@@ -1,0 +1,13 @@
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\netcoreapp3.1\Unicorns.exe
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\netcoreapp3.1\Unicorns.deps.json
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\netcoreapp3.1\Unicorns.runtimeconfig.json
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\netcoreapp3.1\Unicorns.runtimeconfig.dev.json
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\netcoreapp3.1\Unicorns.dll
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\bin\Debug\netcoreapp3.1\Unicorns.pdb
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\netcoreapp3.1\Unicorns.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\netcoreapp3.1\Unicorns.AssemblyInfoInputs.cache
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\netcoreapp3.1\Unicorns.AssemblyInfo.cs
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\netcoreapp3.1\Unicorns.csproj.CoreCompileInputs.cache
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\netcoreapp3.1\Unicorns.dll
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\netcoreapp3.1\Unicorns.pdb
+C:\Users\danam\Documents\GitHub\unicorns\Unicorns\obj\Debug\netcoreapp3.1\Unicorns.genruntimeconfig.cache
